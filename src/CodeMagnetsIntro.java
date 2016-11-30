@@ -10,7 +10,7 @@
  * OUTPUT: a-b c-d
  */
 
-public class HFJCodeMagnets {
+public class CodeMagnetsIntro {
     public static void main(String[] args) {
         int x = 3;
 
