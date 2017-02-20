@@ -1,16 +1,16 @@
-/**
+package ChapterOne; /**
  * Created by anthonyfortney on 11/21/16.
  */
 
 /**
- * A working Java profram is all scrambled up on the fridge,
+ * A working Java program is all scrambled up on the fridge,
  * Can you rearrange the code snippets to make a working program that produces the output below?
  * Add curly braces as needed.
  *
  * OUTPUT: a-b c-d
  */
 
-public class CodeMagnetsIntro {
+public class CodeMagnets {
     public static void main(String[] args) {
         int x = 3;
 
