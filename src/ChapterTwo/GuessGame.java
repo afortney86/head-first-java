@@ -1,3 +1,5 @@
+package ChapterTwo;
+
 /**
  * Created by anthonyfortney on 11/29/16.
  */
@@ -25,7 +27,7 @@ public class GuessGame {
         while(true) {
             System.out.println("Number to guess is " + targetNumber);
 
-            p1.guess(); // Calling Players guess method from GuessGamePlayer
+            p1.guess(); // Calling Players guess method from ChapterTwo.GuessGamePlayer
             p2.guess();
             p3.guess();
 

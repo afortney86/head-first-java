@@ -1,3 +1,7 @@
+package ChapterTwo;
+
+import ChapterTwo.GuessGame;
+
 /**
  * Created by anthonyfortney on 11/29/16.
  */
