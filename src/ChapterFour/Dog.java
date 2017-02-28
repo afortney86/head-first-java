@@ -5,8 +5,30 @@ package ChapterFour;
  */
 public class Dog {
 
-    int size;
-    String name;
+// Encapsulating the Dog class
+
+// Make the instance variables private
+    private int size;
+    private String name;
+
+// Make the getters and setters public
+
+
+    public int getSize() {
+        return size;
+    }
+
+    public void setSize(int size) {
+        this.size = size;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     void bark() {
         if (size > 60) {
